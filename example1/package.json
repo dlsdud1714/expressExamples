@@ -1,0 +1,24 @@
+{
+  "name": "studyexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlsdud1714/codecampProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlsdud1714/codecampProject/issues"
+  },
+  "homepage": "https://github.com/dlsdud1714/codecampProject#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
